@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: юніт тест 5.1, Configuration: Debug x64 ------
+1>юніт тест 5.1.cpp
+1>C:\Users\H\Desktop\Andrii\юніт тест 5.1\юніт тест 5.1.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>юніт тест 5.1.vcxproj -> C:\Users\H\Desktop\Andrii\лабораторна 5.1\x64\Debug\юніт тест 5.1.dll
+1>Done building project "юніт тест 5.1.vcxproj".
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
